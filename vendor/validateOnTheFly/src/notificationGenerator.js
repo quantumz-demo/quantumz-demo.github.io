@@ -15,7 +15,7 @@ class Notification {
                 let notificationAssembled = this.notificationAssembler(jsonData["notifications"], notificationCode, inputValidationErrorArray, uiNotificationBox, uiErrorBox,uiCloseButton);
                 let notification = this.uiShowNotification(notificationAssembled);
                 this.closeNotificationManually(uiCloseButton,notification);
-                this.closeNotificationAutomatically(notification,inputValidationErrorLength,5000);
+                this.closeNotificationAutomatically(notification,inputValidationErrorLength,20000);
                 return jsonData;
             })
             .catch(function (error) {
