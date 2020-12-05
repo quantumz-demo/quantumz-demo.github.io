@@ -1,0 +1,26 @@
+#particles-js{
+    z-index: -1;
+    
+    background-color: #1d1d1d;
+    background-size: cover;
+    padding-top: 0;
+}
+
+
+#particles_js_overlay {
+    z-index: 5;
+    background-color: #1d1d1d;
+    background-size: cover;
+}
+
+
+.bg_test {
+    z-index: -1;
+
+    height: 100%;
+
+
+    background-repeat: no-repeat;
+    background-position: top right, center;
+    background-size: 80% 120%, 100% 100%;
+}

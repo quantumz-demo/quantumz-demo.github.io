@@ -1,0 +1,92 @@
+
+
+.aboutMeWrapper{
+
+    height: 100%;
+    
+    
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+
+    color: #4A4A4A;
+}
+
+
+
+
+.aboutMeContainer{
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    max-width: 1200px;
+    justify-content:space-around;
+    align-items:center;
+}
+
+
+
+.personalPicContainer{
+
+}
+
+.personalPic{
+    width: 250px;
+    display: inline;
+}
+
+.aboutMePageTitleContainer{
+    text-align: center;
+}
+
+
+.aboutMePageTitle{
+    display: inline-block;
+    margin: auto;
+
+    font-size: 35px;
+    text-align: center;
+
+
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    border-image: linear-gradient(to right, #E66767, #EE9127) 1;
+
+
+
+}
+
+
+.aboutMeContentContainer{
+    max-width: 60%;
+
+    padding-left: 50px;
+
+    border-left-width: 5px;
+    border-left-style: solid;
+    border-image: linear-gradient(to bottom, #E66767, #EE9127) 1;
+
+}
+
+.aboutMeContentContainer div{
+    padding: 10px;
+}
+
+
+.aboutMeName{
+    font-size: 23px;
+    font-weight: bold;
+
+}
+
+
+.aboutMeProfession{
+    font-size: 20px;
+}
+
+
+.aboutMeText{
+    max-width: 70%;
+
+}
+

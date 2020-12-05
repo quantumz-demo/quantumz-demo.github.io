@@ -1,0 +1,110 @@
+.footer{  
+    position: absolute;
+    bottom: 0;
+    
+    
+    width: 100%;
+    
+    padding : 20px 0 20px 0;
+
+    background-color: #1d1d1d;
+    color: white;
+
+    text-align: center;
+}
+
+
+.footerContainer{
+    display: flex;
+
+    margin: auto;
+
+    max-width: 1600px;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    justify-content: center;
+    align-items: center;
+
+    justify-content: space-around;
+}
+
+
+.footerItem {
+    flex: 1 1;
+}
+
+
+.footerCenterItem{
+    border-right: #e6e6e6 1px solid;
+    border-left: #e6e6e6 1px solid;
+}
+
+.footerLogoContainer{
+
+}
+
+.footerLogo{
+    width: 200px;
+    max-width: 200px;
+    
+    margin-bottom: 10px;
+}
+
+.footerSocilaLinksContainer{
+    margin-top: 10px;
+}
+
+
+.footerConnectIcon{
+    cursor: pointer;
+    width: 28px;
+}
+
+
+.form__group{
+    margin-top: 10px;
+}
+
+
+
+.subscribeForm{
+
+    display: flex;
+    justify-content: space-between;
+
+
+    border-radius: 20px;
+    background-color: #e6e6e6;
+    width: 300px;
+    margin : 0 auto;
+}
+
+.form__input {
+    color: #333;
+    font-size: inherit;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 20px 0 0 20px;
+    background-color: #e6e6e6;
+    border: none;
+    max-width: 300px;
+    transition: all 0.3s;
+    flex: 1 1;
+}
+
+
+.subscribeButton{
+
+    font-size: inherit;
+    background-color: #4E02FB;
+    border-radius: 0 20px 20px 0;
+    padding:5px;
+    border: none;
+    color: #E6E6E6;
+    cursor: pointer;
+    flex: 0 1;
+}
+
+
+

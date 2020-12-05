@@ -1,0 +1,38 @@
+body {
+        font-family: 'Comfortaa', cursive,'Montserrat', sans-serif;
+        background-color: #EAEAEC;
+        width: 100%;
+        padding-top: 60px; /* Header hight*/
+        margin: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+.mainContainer{
+    position: relative;
+    min-height:100vh;
+}
+
+.mainContent{
+    padding-bottom: 150px; /* footer hight */
+    margin: auto;
+}
+
+
+.whiteSpaceDivisor100{
+    display: block;
+    height: 100px;
+}
+.whiteSpaceDivisor50{
+    display: block;
+    height: 50px;
+}
+
+
+.highlightedBackgroundType1 {
+    color: white;
+    background-image: linear-gradient(to right, rgba(2, 54, 151,0.8),rgba(128, 52, 151,0.8),rgba(190, 57, 137,1),rgba(232, 82, 118,1),rgba(255, 122, 99,1));
+}
+

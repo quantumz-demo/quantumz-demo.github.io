@@ -1,0 +1,157 @@
+/*<!-- CONTACT US FORM AND IMAGE  ==========================================================================-->*/
+
+.introWrapper{
+    height: 100%;
+}
+
+
+.contactUsFormContainer{
+
+    display: flex;
+    flex-direction: row;
+    max-width: 1200px;
+    margin: auto;
+    justify-content:space-between;
+    align-items:center;
+
+    
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+
+.contactUsFormPhrase1{
+    font-size: 25px;
+    font-weight: 600;
+
+
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    background: linear-gradient(to right, #4E02FB,#328BF2);
+    width: 580px; /*Normally it is 600(the half of 1200px) but 580 because padding is already 10px*/
+    padding: 10px;
+    border-radius: 80px;
+}
+
+.contactUsFormPhrase2{
+    font-size: 25px;
+    font-weight: 600;
+    
+}
+
+
+
+.contactUsFormImage{
+
+    width: 450px;
+    margin-top: 40px;
+}
+
+
+.contactUsForm{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+
+    background-image: linear-gradient(to right, #1D1D1D ,#686868);
+    border-radius: 20px;
+    /*max-width: 450px;*/
+    max-width: 600px;
+
+    padding: 30px;
+}
+
+
+.contactUsFormInput{
+
+    font-family: inherit;
+    font-size: inherit;
+    color: #ffffff;
+
+    background: none;
+    border: 0;
+    border-bottom: 1px solid #ffffff;
+    margin-top: 40px;
+
+}
+
+.contactUsFormInputHalfsize{
+    width: 200px;
+}
+
+
+#contactUsFormLastName{
+    margin-right: 25px;
+}
+#contactUsFormFirstName{
+    margin-left: 25px;
+}
+
+
+.contactUsFormInputFullsize{
+    width: 450px;
+}
+
+textarea{
+    resize: none;
+}
+
+.contactUsFormInput::placeholder{
+    opacity: 1;
+}
+
+.contactUsFormSubmitButton{
+    width: 250px;
+
+    font-family: inherit;
+    font-size: inherit;
+
+    color: #ffffff;
+    background: linear-gradient(to right, #4E02FB,#328BF2);
+    border-radius: 80px;
+    border :none;
+    cursor: pointer;
+
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.contactUsFormSubmitButton:hover{
+    background-image: linear-gradient(to right,#328bf2, #4e02fb);
+}
+
+/*<!-- CONTACT me DIRECTLY  ==========================================================================-->*/
+
+.contactMeDirectlyWrapper{
+    text-align: center;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.contactMeDirectlyContainer{
+    display: inline-block;
+    text-align: left;
+}
+
+.contactMeDirectlyBox{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.contactMeDirectlyIcon{
+    width: 50px;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
