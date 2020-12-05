@@ -4,9 +4,9 @@ ob_start();
 
     <title> Quantumz | Acceuil</title>
 
-    <script src="/quantumz/style/js/typerExe.js"></script>
-    <script src="/quantumz/style/js/boxAnimationViewer.js"></script>
-    <script src="/quantumz/style/js/dropDownArrowScroll.js"></script>
+    <script src="/quantumz-demo.github.io/style/js/typerExe.js"></script>
+    <script src="/quantumz-demo.github.io/style/js/boxAnimationViewer.js"></script>
+    <script src="/quantumz-demo.github.io/style/js/dropDownArrowScroll.js"></script>
 
 
     <link rel="stylesheet" type="text/css" href="style/css/homePage.css">
@@ -50,7 +50,7 @@ ob_start();
 
 
         <div class="ideaBannerContainer">
-            <img class="ideaBannerImage" alt="" src="/quantumz/images/illustration/bg2.svg">
+            <img class="ideaBannerImage" alt="" src="/quantumz-demo.github.io/images/illustration/bg2.svg">
 
             <div>
                 <div class="ideaBannerTextContainer">
@@ -59,7 +59,7 @@ ob_start();
                     </div>
                     <div class="ideaBannerTextLine">Ou simplement développer un produit existant ?</div>
                 </div>
-                <a href="/quantumz/contactUs.php">
+                <a href="/quantumz-demo.github.io/contactUs.php">
                     <div class="ideaBannerButton">
                         Quantumz vous accompagne !
                     </div>
@@ -85,7 +85,7 @@ ob_start();
                 </div>
 
                 <div class="singleBoxTitle">Notre Passion ?</div>
-                <img class="singleBoxImage" alt="our passion" src="/quantumz/images/illustration/ourPassionBanner.svg">
+                <img class="singleBoxImage" alt="our passion" src="/quantumz-demo.github.io/images/illustration/ourPassionBanner.svg">
             </div>
 
 
@@ -101,7 +101,7 @@ ob_start();
                 </div>
                 <div class="singleBoxTitle">Idées Créatives</div>
                 <img class="singleBoxImage" alt="creative ideas"
-                     src="/quantumz/images/illustration/creativeIdeasBanner.svg">
+                     src="/quantumz-demo.github.io/images/illustration/creativeIdeasBanner.svg">
             </div>
 
 
@@ -112,12 +112,12 @@ ob_start();
                         quis nostrud exercitation ullamco laboris nisi ut
                         aliquip ex ea commodo consequat. Duis aute irure
                         dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur
+                        cillum dolore eu fugiat nulla pariSSatur. Excepteur
                     </div>
                 </div>
                 <div class="singleBoxTitle">Solutions Stratégiques</div>
                 <img class="singleBoxImage" alt="strategic solutions"
-                     src="/quantumz/images/illustration/strategicSolutionsBanner.svg">
+                     src="/quantumz-demo.github.io/images/illustration/strategicSolutionsBanner.svg">
             </div>
         </div>
 
@@ -126,9 +126,9 @@ ob_start();
 
 
         <div class="outroContainer">
-            <img alt="contactUsOutroImage" src="/quantumz/images/illustration/contactUs.svg">
+            <img alt="contactUsOutroImage" src="/quantumz-demo.github.io/images/illustration/contactUs.svg">
             <div class="contactUsOutroImageText">N'y allez Pas tout seul, Quantumz est là !</div>
-            <a href="/quantumz/contactUs.php">
+            <a href="/quantumz-demo.github.io/contactUs.php">
                 <button class="outroContactButton">Contactez-nous</button>
             </a>
         </div>

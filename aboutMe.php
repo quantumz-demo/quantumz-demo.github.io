@@ -17,7 +17,7 @@ ob_start();
 
         <div class="aboutMeContainer">
             <div class="personalPicContainer">
-                <img alt="sirage al dbiyat" class="personalPic" src="/quantumz/images/pics/siragealdbiyat.jpg">
+                <img alt="sirage al dbiyat" class="personalPic" src="/quantumz-demo.github.io/images/pics/siragealdbiyat.jpg">
             </div>
 
             <div class="aboutMeContentContainer">

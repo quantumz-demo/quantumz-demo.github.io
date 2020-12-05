@@ -22,7 +22,7 @@
 
         <div class="footerCenterItem footerItem">
             <div class="footerLogoContainer">
-                <a href="/quantumz/index.php">
+                <a href="/quantumz-demo.github.io/index.php">
                     <img class="footerLogo" src="images/logo/logoBright.png">
                 </a>
             </div>
@@ -44,8 +44,8 @@
             </div>
             <div class="footerSocilaLinksContainer">
                 <a href="https://www.linkedin.com/in/sirage-al-dbiyat/">
-                    <img class="footerConnectIcon" src="/quantumz/images/icon/connectIcon/linkedinIcon.svg">
-                    <img class="footerConnectIcon" src="/quantumz/images/icon/connectIcon/facebookIcon.svg">
+                    <img class="footerConnectIcon" src="/quantumz-demo.github.io/images/icon/connectIcon/linkedinIcon.svg">
+                    <img class="footerConnectIcon" src="/quantumz-demo.github.io/images/icon/connectIcon/facebookIcon.svg">
                 </a>
             </div>
         </div>

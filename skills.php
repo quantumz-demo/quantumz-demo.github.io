@@ -7,9 +7,9 @@ ob_start();
 <title> Quantumz | Compétences</title>
 
 
-<link rel="stylesheet" type="text/css" href="/quantumz/style/css/skills.css">
-<script src="/quantumz/style/js/dropDownArrowScroll.js"></script>
-<script src="/quantumz/style/js/goToClickedSkill.js"></script>
+<link rel="stylesheet" type="text/css" href="/quantumz-demo.github.io/style/css/skills.css">
+<script src="/quantumz-demo.github.io/style/js/dropDownArrowScroll.js"></script>
+<script src="/quantumz-demo.github.io/style/js/goToClickedSkill.js"></script>
 
 <!-- INTRO ==========================================================================-->
 
@@ -20,7 +20,7 @@ ob_start();
                 Plus qu'un métier, une passion...
             </div>
 
-            <img class="introImage" alt="Ordinateur écran code" src="/quantumz/images/illustration/bg5.svg">
+            <img class="introImage" alt="Ordinateur écran code" src="/quantumz-demo.github.io/images/illustration/bg5.svg">
             <!--<img alt="dropdownArrow" class="dropdownArrow dropdownArrowAnimated dropdownArrowBounce" src="images/illustration/DropdownArrow.svg" alt="drop_down_arrow">-->
 
         </div>
@@ -74,7 +74,7 @@ ob_start();
 <div class="skillBoxContainer">
 
     <div class="skillBox">
-        <img alt="Dévloppement web" class="skillImage" src="/quantumz/images/illustration/webDev.svg">
+        <img alt="Dévloppement web" class="skillImage" src="/quantumz-demo.github.io/images/illustration/webDev.svg">
         <div class="skillTextContainer">
             <div class="skillTitle introskill1">Développement web</div>
             <div class="skillText">Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -94,11 +94,11 @@ ob_start();
                 quis nostrud exercitation ullamco
                 laboris nisi ut aliquip.</div>
         </div>
-        <img alt="Application web" class="skillImage" src="/quantumz/images/illustration/webApp.svg">
+        <img alt="Application web" class="skillImage" src="/quantumz-demo.github.io/images/illustration/webApp.svg">
     </div>
 
     <div class="skillBox">
-        <img alt="Site Web" class="skillImage" src="/quantumz/images/illustration/webSite.svg">
+        <img alt="Site Web" class="skillImage" src="/quantumz-demo.github.io/images/illustration/webSite.svg">
         <div class="skillTextContainer">
             <div class="skillTitle introskill3">Site web</div>
             <div class="skillText">Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -118,11 +118,11 @@ ob_start();
                 quis nostrud exercitation ullamco
                 laboris nisi ut aliquip.</div>
         </div>
-        <img alt="web design" class="skillImage" src="/quantumz/images/illustration/webDesign.svg">
+        <img alt="web design" class="skillImage" src="/quantumz-demo.github.io/images/illustration/webDesign.svg">
     </div>
 
     <div class="skillBox">
-        <img alt="Ux design" class="skillImage" src="/quantumz/images/illustration/webDesignUx.svg">
+        <img alt="Ux design" class="skillImage" src="/quantumz-demo.github.io/images/illustration/webDesignUx.svg">
         <div class="skillTextContainer">
             <div class="skillTitle introskill5">Expérience utilisateur UX</div>
             <div class="skillText">Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -142,13 +142,13 @@ ob_start();
                 quis nostrud exercitation ullamco
                 laboris nisi ut aliquip.</div>
         </div>
-        <img alt="responsive Design" class="skillImage" src="/quantumz/images/illustration/responsiveDesign.svg">
+        <img alt="responsive Design" class="skillImage" src="/quantumz-demo.github.io/images/illustration/responsiveDesign.svg">
     </div>
 
 
 
     <div class="skillBox">
-        <img alt="Hébergement Web" class="skillImage" src="/quantumz/images/illustration/hosting.svg">
+        <img alt="Hébergement Web" class="skillImage" src="/quantumz-demo.github.io/images/illustration/hosting.svg">
         <div class="skillTextContainer">
             <div class="skillTitle introskill7">Hébergement web</div>
             <div class="skillText">
@@ -172,13 +172,13 @@ ob_start();
                 quis nostrud exercitation ullamco
                 laboris nisi ut aliquip.</div>
         </div>
-        <img alt="Base de données" class="skillImage" src="/quantumz/images/illustration/database.svg">
+        <img alt="Base de données" class="skillImage" src="/quantumz-demo.github.io/images/illustration/database.svg">
     </div>
 
 
 
     <div class="skillBox">
-        <img alt="Maintenance Sites et application web" class="skillImage" src="/quantumz/images/illustration/maintenance1.svg">
+        <img alt="Maintenance Sites et application web" class="skillImage" src="/quantumz-demo.github.io/images/illustration/maintenance1.svg">
         <div class="skillTextContainer">
             <div class="skillTitle introskill9">Maintenance site web</div>
             <div class="skillText">
