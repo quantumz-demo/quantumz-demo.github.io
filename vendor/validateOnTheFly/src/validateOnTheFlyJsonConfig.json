@@ -4,7 +4,7 @@
                 {
                     "notificationCode": 1,
                     "validationStatus": true,
-                    "text": "C'est un site web vitrine uniquement pour vous montrer ce project, donc le formulaire de contact ne\n            fonctionne pas car il n'est tous saimplemant pas connecté à une base de donnée, cependant si vous souhaitez me contacter merci d'aller sur </br> mon site web personnel <a href=\"https://ilovesemicolons.io/contact\">iLoveSemicolons.io</a>",
+                    "text": "C'est un site web vitrine uniquement pour vous montrer ce project, donc le formulaire de contact ne fonctionne pas car il n'est tous saimplemant pas connecté à une base de donnée. </br> Si vous souhaitez me contacter merci d'aller sur mon site web personnel <a href=\"https://ilovesemicolons.io/contact\">iLoveSemicolons.io</a>",
                     "textColor": "#E6E6E6",
                     "backgroundColor": "#1B7CD1",
                     "animation": false
